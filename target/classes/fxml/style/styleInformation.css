@@ -1,0 +1,35 @@
+.toggle-buttons{
+    -fx-background-color: white;
+    -fx-border-radius: 0px;
+    -fx-background-radius: 0px;
+    -fx-border-style: none;
+}
+
+.toggle-buttons:hover, .toggle-buttons:selected{
+    -fx-background-color: #b3b3b3;
+    -fx-border-width: 0px 3px 0px 0px;
+    -fx-border-color: #4d4e52;
+}
+
+.top-background-one{
+    -fx-background-color: #a8adad;
+}
+
+.background-layout{
+    -fx-background-color: #e3e3e3;
+}
+
+.top-nav{
+    -fx-background-color: #c4c4c4;
+}
+
+.sign-out{
+    -fx-background-radius: 30px;
+}
+
+.sign-out:hover{
+    -fx-background-color: #ff6b6b;
+}
+
+
+
