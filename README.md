@@ -1,0 +1,2 @@
+# HomeBudget
+Aplikacja biznesowa desktopowa!
